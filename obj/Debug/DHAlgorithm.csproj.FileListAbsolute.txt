@@ -1,0 +1,7 @@
+C:\Users\66hun\Documents\zKod\DHAlgorithm\bin\Debug\DHAlgorithm.exe
+C:\Users\66hun\Documents\zKod\DHAlgorithm\bin\Debug\DHAlgorithm.pdb
+C:\Users\66hun\Documents\zKod\DHAlgorithm\obj\Debug\DHAlgorithm.csproj.AssemblyReference.cache
+C:\Users\66hun\Documents\zKod\DHAlgorithm\obj\Debug\DHAlgorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\66hun\Documents\zKod\DHAlgorithm\obj\Debug\DHAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\66hun\Documents\zKod\DHAlgorithm\obj\Debug\DHAlgorithm.exe
+C:\Users\66hun\Documents\zKod\DHAlgorithm\obj\Debug\DHAlgorithm.pdb
